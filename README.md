@@ -92,11 +92,14 @@ Open to roles involving **AI Technical Leadership, Solution Architecture, Team M
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkank&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=yashkank&hide_border=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkank&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=yashkank&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkank&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 
